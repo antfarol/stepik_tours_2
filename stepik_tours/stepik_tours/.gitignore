@@ -1,0 +1,4 @@
+giignore here
+*.sqlite3
+*.flake8
+.idea/
